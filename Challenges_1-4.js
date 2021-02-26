@@ -154,11 +154,3 @@ function rpsFrontEnd(humanImageChoice, botImageChoice, finalMessage) {
     }
 
 
-// Challenge 5: Blackjack
-
-
-
-
-
-
-
