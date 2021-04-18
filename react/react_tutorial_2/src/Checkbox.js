@@ -1,0 +1,3 @@
+test("Selecting checkbox", () => {
+    // test
+})
